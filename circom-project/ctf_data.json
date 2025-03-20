@@ -1,0 +1,17 @@
+{
+  "N": 4,
+  "subFlags": [
+    "OvFcmqp1",
+    "ileA9jKI",
+    "06B4aBeD",
+    "SgqiJzU6"
+  ],
+  "commitments": [
+    "0xfda9fe98f7b4d56135ae3c07e04be5ef24f62212166ec00b69a9e2dcbf890e51",
+    "0x30ff3841ab8f20d3acfc4cf21eeff5dc30547b6a3cbdfd7925f666765769537e",
+    "0x37827fb4d9019b4b7b9992adb56530034bc4d615e7629d9bc6a55de095e2ed24",
+    "0x03cd84bb199495e9701d274aa3ada9ee3f6817162ca455782c1d390b861d60ed"
+  ],
+  "masterKey": "SUPER_SECRET_MASTER_KEY",
+  "masterKeyCommitment": "0xf15b3cb68c6ed8f8fbc4b95fd232a5bfedf71a88ce99eacb3567c08e498d0956"
+}
