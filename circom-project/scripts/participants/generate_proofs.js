@@ -11,7 +11,7 @@ const CIRCUIT_NAME = 'SubFlagCheck';
 const NUM_CHUNKS = 3;           // Matches "component main = SubFlagCheck(3)" in your .circom
 const MAX_CONCURRENCY = os.cpus().length;  // Auto-detect CPU cores
 const ARTIFACT_DIR = path.join(__dirname, 'circom-project/artifacts');
-const PROOF_OUTPUT_DIR = path.join(__dirname, '../proofs');
+const PROOF_OUTPUT_DIR = path.join(__dirname, 'circom-project/subFlagCheck_js');
 
 // 2. Initialize performance tracking
 const perfObserver = new PerformanceObserver((items) => {
